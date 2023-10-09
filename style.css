@@ -11,3 +11,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: boisson, énergisante, précommande
 Text Domain: planty
 */
+
+.elementor-24 .elementor-element.elementor-element-11eca62 .menu-item a.hfe-menu-item:hover {
+    background-color: #DC9F96 !important;
+}
+
+.elementor-24 .elementor-element.elementor-element-11eca62 .menu-item a.hfe-menu-item {
+    background-color: white !important;
+}
+
+#menu-item-30 a {
+    background-color: #DC9F96 !important;
+}
