@@ -23,3 +23,38 @@ Text Domain: planty
 #menu-item-30 a {
     background-color: #DC9F96 !important;
 }
+
+/* Planty - Menu Admin */
+
+.hfe-nav-menu__layout-horizontal li.menu-item,
+.hfe-nav-menu__layout-horizontal > li.menu-item {
+    font-size: 16px;
+    text-decoration: none;
+    font-family: 'Syne', sans-serif;
+    font-weight: 500;
+}
+
+/* Planty - Class pour menu Admin */
+li.menu-admin {
+    padding-top: 29px;
+}
+
+/* Planty - Nous rencontrer */
+#menu-item-68 {
+    background-color: #ffffff;
+    font-family: 'Syne', sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+/* Planty - Commander */
+#menu-item-30 {
+    background-color: #DC9F96;
+}
+
+@media only screen and (max-width: 1024px) {
+ {
+
+    
+}
+}
