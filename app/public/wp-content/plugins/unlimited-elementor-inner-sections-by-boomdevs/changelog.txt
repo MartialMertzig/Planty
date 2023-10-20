@@ -1,0 +1,5 @@
+= 1.0.1 =
+Update: support for WordPress 6.3
+
+= 1.0.2 =
+Fix: compellability issues with MalCare Plugin
